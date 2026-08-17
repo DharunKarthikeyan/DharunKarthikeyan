@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi there, I'm Dharun Karthikeyan M 👋
+  # Hi there, I'm DharunKarthikeyan M 👋
   ### 🚀 Full-Stack Web Developer | ☁️ Cloud & FinOps Enthusiast | 🛡️ Cyber Security Student
 
   <p align="center">
